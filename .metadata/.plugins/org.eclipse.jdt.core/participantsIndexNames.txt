@@ -1,0 +1,11 @@
+INDEX VERSION 1.130
+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3383877575.index
+\Frontend\src\main\resources
+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2573274090.index
+\Frontend\src\main\java
+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3390032819.index
+\Frontend\src\main\resources
+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3986689752.index
+\Frontend\src\main\resources
+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1860178481.index
+\Frontend\src\main\resources

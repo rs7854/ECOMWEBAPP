@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\rs\wk\ecom-app\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1473963903.index
+2184036202.index
+2573274090.index
+4093544725.index
+2004892815.index
+1860178481.index
+2192306233.index
+2629089785.index
+3390032819.index
+573179247.index
